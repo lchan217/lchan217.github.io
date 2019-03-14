@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "1 Down, 4 To Go! "
+date:       2019-03-14 15:21:36 +0000
+permalink:  1_down_4_to_go
+---
+
+
+I completed my first project! Having no programming experience, this feels like a big accomplishment for me. I chose to scrape the 2018 Goodreads Choice Award Winners. I picked this website because I use it all the time and while testing, I was able to learn about new books from all genres. 
+
+I feel silly admitting this, but the most frustrating part was setting up the project paths. I was in a “relative_require hell” for a few hours the first day. Once I got through this by watching multiple setup videos, scraping and defining the methods went by much smoother. 
+
+One thing that really helped me in finding the data I needed was using Repl.it. With this, you can easily “Command F” to make sure the content you are looking for is in the node you are accessing, and personally I think reading bright green text is easier than some of the colors used in the IDE in browser. This was extremely useful when a node had tons of data.  
+The way my project works is it displays all the winners for each genre from 2018. The user is asked to pick a genre, which displays the top 20 books that had the most votes. The user can either go back and pick a new genre or select a book to see the description, rating, and a few other fields. Lastly, they can choose to view more books from that genre or exit the program. 
+
+Here is the link to my github: https://github.com/lchan217/Project-1-. Feel free to test it out!
+
+Overall, this project taught me how to scrape a website, define methods, iteration, and a bit more of HTML. Although passing tests and labs are enjoyable, it was nice to do my own thing and create a project I am proud of. I look forward to practicing this and building more complex projects in the future! 
+

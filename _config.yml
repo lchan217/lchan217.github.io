@@ -1,11 +1,11 @@
 # Site settings
 author: Lizzie Chan
-title: 1 Down, 4 To Go! 
+title: Coding with Lizzie
 header-img: img/home-bg.png
 email: lchan217@gmail.com
 copyright_name: Lizzie Chan
 description: > # this means to ignore newlines until "baseurl:"
-  My First Flatiron Project 
+  My journey through Flatiron FT Online Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lchan217

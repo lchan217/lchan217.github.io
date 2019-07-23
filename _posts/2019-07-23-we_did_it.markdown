@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "We Did It! "
+date:       2019-07-23 15:54:43 +0000
+permalink:  we_did_it
+---
+
+
+Can’t believe my final project is done! It’s amazing what I have accomplished in the last 5 months, it feels like yesterday I was just writing the blog to my first project. This last project was pretty fun once I had an idea of what I wanted I wanted to. What I had envisioned in the beginning is not what I ended up with, but with the help of my instructor and classmates, it turned into something better.
+
+When thinking of topics, I knew I did not want to do another tedious CRUD app. As I was brainstorming topics, I remembered an experience in Chengdu, China where a friend and I spent the day at a panda breeding center. Pandas were endangered, brought to the breeding center, and eventually will be released back to the wild once they can live on their own. This sparked the idea for my project. 
+
+There are 15 animals that are endangered, and need to be captured. Only 3 animals can be nursed and saved in one session. Once they are nursed back to health at the click of a button to gain 5 health points, they are ready to be released into the wild. This is a timed mission and a user can enter their time (score) once the three animals are saved. They can navigate to the high scores page to see if they scored in the top five. 
+
+Doing this project really helped solidify my understanding of React and Redux. Before this project, I was lost as to where things go and the flow of the app. It’s important to take it step by step and set little goals in order to tackle the project as a whole. It was A LOT to get done in one week, and going forward I still plan on tweaking the project.
+
+What is next for me? I will take a tiny break as I transition into the next stage. I will remember to take things a day at a time, and that the job search won’t be immediate and I will probably face a lot of rejection. In the meantime, I look forward to working on side projects to maintain skills and learn new ones, while hopefully keeping in touch with my talented classmates. Excited to see where we all end up! 
+
